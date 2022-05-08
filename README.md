@@ -5,6 +5,7 @@ Link for GitHub Repo : https://github.com/ShahanOne/Tussle.Fit-
 
 Developed by Shahan.One
 My Portfolio : https://shahanone.wordpress.com/
+
 Email: shahanhussain9105@gmail.com
 
 
